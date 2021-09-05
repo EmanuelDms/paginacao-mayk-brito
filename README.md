@@ -1,0 +1,1 @@
+# Paginação utilizando JavaScript Puro
